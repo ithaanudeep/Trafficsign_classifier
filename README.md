@@ -9,7 +9,7 @@ Step3: Run the file main.py in Pycharm IDE.
 Step4: After running the file successfully, a new file is generated with ".h5" extension.                                              
 Step5: Now, in runner.py file, load the file with ".h5" extension.
 
-That's it. You can see the accuracy in classifying the traffic sign images when you place a image infront of camera.
+That's it. You can see the accuracy in classifying the traffic sign images when you place a image infront of camer.
 
 
 
