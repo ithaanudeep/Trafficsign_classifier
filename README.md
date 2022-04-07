@@ -6,7 +6,7 @@ Download GTSRB dataset from the link https://www.kaggle.com/meowmeowmeowmeowmeow
 Step1: Download the files and download GTSRB dataset from the abov mentiond link.                                                            
 Step2: Keep all the files and dataset folder in th same directory.                                                         
 Step3: Run the file main.py in Pycharm IDE.                                                                                   
-Step4: After running the file successfully, a new file is generated with ".h5" extension.                                              
+Step4: After running the file successfully, a new file is generated with ".h5" extension,                                              
 Step5: Now, in runner.py file, load the file with ".h5" extension.
 
 That's it. You can see the accuracy in classifying the traffic sign images when you place a image infront of camera.
